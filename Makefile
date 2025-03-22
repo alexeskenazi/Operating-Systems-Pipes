@@ -11,3 +11,8 @@ task2: task2.c
 
 clean:
 	rm -f task1 task2
+
+run: task1 task2
+	./task1
+	./task2
+
