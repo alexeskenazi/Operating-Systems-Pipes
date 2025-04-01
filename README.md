@@ -2,6 +2,8 @@
 
 This experiment focuses on implementing command execution using process pipes in C. It demonstrates how Unix-like operating systems connect commands in a pipeline using the pipe mechanism.
 
+![Sample Output](sample-output.png)
+
 ## Project Structure
 
 - **task1.c**: Implements a two-command pipeline
